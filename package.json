@@ -1,0 +1,13 @@
+{
+  "name": "2020-09-23.hexasound",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jakob Runge <github@runjak.codes>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/reveal-md slides.md --theme night"
+  },
+  "dependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
